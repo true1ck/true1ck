@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chandresh Kumar
+# Hi there! 👋 I'm Chandresh Kerkar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Tinkerer;Algorithmic+Trading+Explorer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
