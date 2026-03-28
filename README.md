@@ -1,115 +1,178 @@
-# Hi there! 👋 I'm Chandresh Kerkar
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;IoT+%26+Hardware+Tinkerer;Algorithmic+Trading+Explorer;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%40+MediaTek;Android+%26+Flutter+Developer;AI%2FML+Builder+%C2%B7+57%2B+Projects;BITS+Pilani+M.E.+CS+%C2%B7+CGPA+9.36;%F0%9F%8F%86+MediaTek+Hackathon+2025+Winner&font=Fira%20Code&center=true&width=600&height=50&color=00f2ff&vCenter=true&size=20&pause=1000">
+
 </div>
 
-## 🚀 About Me
+---
 
-I'm a passionate developer and AI enthusiast who loves building innovative solutions across diverse domains. From AI-powered attendance systems to algorithmic trading platforms, I enjoy exploring the intersection of technology and real-world applications.
+## 👋 Hi, I'm Chandresh Kerkar
 
-- 🔭 Currently working on **AI-powered workforce management** and **localization models**
-- 🌱 Exploring **LLM applications**, **RAG systems**, and **IoT data collection**
-- 💡 Interested in **algorithmic trading**, **blockchain technology**, and **web scraping**
-- 🎯 Always learning new technologies and contributing to open source
+**Software Engineer @ MediaTek** · Bengaluru, India  
+**M.E. Computer Science · BITS Pilani, Goa Campus** · CGPA: 9.36  
+**🏆 1st Place · MediaTek Internal Hackathon 2025**
+
+I build Android apps, AI pipelines, and embedded systems. 57+ repos across 10+ languages — shipping things that actually work, not toy demos. Doing low-level driver & embedded development at MediaTek by day, building AI-native mobile apps at night.
+
+> 🌐 **Portfolio:** [true1ck.github.io](https://true1ck.github.io)
+
+---
+
+## 📊 By the Numbers
+
+<div align="center">
+
+| 🗂️ Repos | ⚡ LeetCode | 🏆 Hackathons | 📅 Experience | 💻 Languages |
+|:---:|:---:|:---:|:---:|:---:|
+| **57+** | **500+** | **2 Won** | **4+ Years** | **10+** |
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-0062CC?style=for-the-badge&logo=xilinx&logoColor=white)
+**📱 Mobile & Android**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**🤖 AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**⚙️ Backend & Tools**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**🔌 Hardware / IoT**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-0062CC?style=for-the-badge&logo=xilinx&logoColor=white)
 
-## 🌟 Featured Projects
+---
 
-### 🤖 AI & Machine Learning
-- **[Attendo_Ai](https://github.com/true1ck/Attendo_Ai)** - AI-powered attendance management system with advanced analytics
-- **[attendo](https://github.com/true1ck/attendo)** - Complete workforce management platform for MediaTek Hackathon 2025
-- **[LLM-RAG-For-Intel-Documentation-CodeGen](https://github.com/true1ck/LLM-RAG-For-Intel-Documentation-CodeGen)** - RAG model using Mistral for Intel documentation
-- **[MLLocalizationModel](https://github.com/true1ck/MLLocalizationModel)** - Machine learning model for location tracking and prediction
 
-### 💹 Trading & Finance
-- **[AlgoTradingUpstoxs](https://github.com/true1ck/AlgoTradingUpstoxs)** - Algorithmic trading strategies for Upstox platform
-- **[BSE_DataScraper](https://github.com/true1ck/BSE_DataScraper)** - Data scraping solution for BSE market information
+## 🎯 What I'm Shipping Right Now
 
-### 🌐 Web Development
-- **[Yt_MP3_Downloader](https://github.com/true1ck/Yt_MP3_Downloader-)** - YouTube to MP3 converter with clean interface
-- **[Cursor_Animation_Templates](https://github.com/true1ck/Cursor_Animation_Templates)** - Collection of creative cursor animation templates
-- **[School-Management-System](https://github.com/true1ck/School-Management-System)** - Comprehensive school management solution
+- 📱 **PandaPal** — AI calendar & meeting assistant (Flutter/Dart, on-device LLM, local speech-to-text)
+- 🛒 **Android Marketplace App** — Full marketplace with MVVM, Jetpack, Firebase, deep-link sharing
+- ⚙️ **@ MediaTek** — Embedded systems & low-level driver development
+- 🧠 **Exploring** — On-device LLM inference, local AI for mobile
 
-### 🔧 IoT & Hardware
-- **[IOTESP32WifiDataCollection](https://github.com/true1ck/IOTESP32WifiDataCollection)** - WiFi-based data collection using ESP32
-- **[DataCollectorForLocalization](https://github.com/true1ck/DataCollectorForLocalization)** - Data collection system for localization algorithms
+---
 
-### ⚡ Other Notable Projects
-- **[MIPS-Architecture-with-FPU-Arithmetic](https://github.com/true1ck/MIPS-Architecture-with-FPU-Arithmetic-)** - MIPS processor implementation with FPU
-- **[blockchain-based-voting-system-on-ether](https://github.com/true1ck/blockchain-based-voting-system-on-ether)** - Secure voting system on Ethereum
-- **[BugSeek](https://github.com/true1ck/BugSeek)** - Bug tracking and management tool
+## 📱 Android & Mobile
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [🐼 **PandaPal (AI\_Calendar)**](https://github.com/true1ck/AI_Calendar) | Flutter · Dart · SQLite · Local LLM | AI calendar & task assistant with offline speech-to-text (350M param). Meeting transcription & smart scheduling. |
+| [🤖 **Autonomous Vehicle + Android**](https://github.com/true1ck/IOTESP32WifiDataCollection) | Kotlin · Firebase · ESP32 · Jetpack | Android app for WiFi-based vehicle navigation. Real-time Firebase sync, full Jetpack architecture. |
+| [🏘️ **UrbanLink**](https://github.com/true1ck/UrbanLink) | Flutter · Dart · PostgreSQL | Cross-platform property brokerage platform. Listings, broker management & client workflows. |
+
+---
+
+## 🤖 AI & Machine Learning
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [🏆 **Attendo AI**](https://github.com/true1ck/attendo) | AI/ML · Power Automate | **1st Place · MediaTek Internal Hackathon 2025.** AI workforce management with multi-role access & automated insights. |
+| [🧐 **LLM-RAG for Intel Docs**](https://github.com/true1ck/LLM-RAG-For-Intel-Documentation-CodeGen) | Mistral · RAG · Python · LangChain | Fully offline CPU-based RAG. Generates code & answers from Intel documentation. Zero cloud. |
+| [⚡ **GPU Parallel Transcription**](https://github.com/true1ck/gpu-whisper-transcription) | Whisper · CUDA · Python | Multi-model parallel video transcription pipeline using OpenAI Whisper on GPU. |
+| [📍 **ML Localization Model**](https://github.com/true1ck/MLLocalizationModel) | Python · Scikit-learn | ML model for indoor localization and position prediction. |
+
+---
+
+## 💹 Trading & Finance
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [📈 **Algo Trading — Upstox**](https://github.com/true1ck/AlgoTradingUpstoxs) | Python · Upstox API · MACD/RSI | Algo trading with MACD/RSI strategy backtesting via live APIs. Real capital strategies. |
+| [📊 **BSE Market Intelligence**](https://github.com/true1ck/BSE_DataScraper) | Python · Web Scraping | Real-time BSE announcement scraper with AI-powered insight extraction. |
+
+---
+
+## 🔧 IoT & Hardware
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [🔬 **MIPS CPU with FPU**](https://github.com/true1ck/MIPS-Architecture-with-FPU-Arithmetic-) | Verilog · RTL | Full MIPS architecture with FPU. Pipeline stages, memory, ALU — from scratch. |
+| [📡 **DataCollector for Localization**](https://github.com/true1ck/DataCollectorForLocalization) | ESP32 · Python | WiFi signal data collection firmware for ML-based indoor localization. |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| 🎓 M.E. Computer Science | **BITS Pilani, Goa Campus** | 2023 – 2025 | **CGPA: 9.36** |
+| 🏛️ B.E. Information Technology | Goa College of Engineering | 2021 | CGPA: 8.16 |
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=true1ck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=true1ck&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=true1ck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=true1ck&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=true1ck&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=true1ck&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 🎯 Current Focus
-
-- 🔬 **Research**: Advanced RAG systems and LLM applications
-- 🚀 **Building**: Next-generation AI-powered workforce solutions
-- 📱 **Exploring**: IoT integration with machine learning
-- 💼 **Contributing**: Open source ML and web development projects
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=true1ck&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph"/>
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on exciting projects, especially in AI/ML, web development, and innovative tech solutions. Feel free to reach out!
-
-<div align="center">
-  <a href="https://github.com/true1ck" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:chandresh.kerkar1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chandreshkerkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=true1ck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=true1ck&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  
-  ⭐️ From [true1ck](https://github.com/true1ck) | Made with ❤️ and lots of ☕
+  <img src="https://github-profile-trophy.vercel.app/?username=true1ck&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+
+## 🎯 Current Focus
+
+- 📱 **Building**: PandaPal — AI-powered calendar & scheduling app (Flutter/Dart)
+- 🛒 **Shipping**: Android marketplace app with MVVM, Jetpack, Firebase
+- ⚙️ **At Work**: Low-level embedded systems & driver development at MediaTek
+- 🧠 **Exploring**: On-device LLMs and local AI inference for mobile
+
+---
+
+## 📈 Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=true1ck&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-true1ck.github.io-00f2ff?style=for-the-badge&logo=github&logoColor=white)](https://true1ck.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-true1ck-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/true1ck)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandreshkerkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandreshkerkar/)
+[![Email](https://img.shields.io/badge/Email-chandresh.kerkar123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandresh.kerkar123@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ck_007)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=true1ck&label=Profile+Views&color=00f2ff&style=flat-square" alt="Profile Views"/>
+
+  <br/>
+
+  *If you find something useful, a star goes a long way!*
 </div>
